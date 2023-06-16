@@ -1,0 +1,16 @@
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.deps.json
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.dll
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\bin\Debug\netstandard2.0\Laboratorio12.pdb
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.csproj.AssemblyReference.cache
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Views\CalcularMedidas.xaml.g.cs
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.AssemblyInfoInputs.cache
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.AssemblyInfo.cs
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.csproj.CoreCompileInputs.cache
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.dll
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\refint\Laboratorio12.dll
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\Laboratorio12.pdb
+C:\Users\luis1\source\repos\Laboratorio12\Laboratorio12\Laboratorio12\obj\Debug\netstandard2.0\ref\Laboratorio12.dll
